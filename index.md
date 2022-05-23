@@ -1,4 +1,4 @@
-# SAE 2.03 : Docker et Github
+## SAE 2.03 : Docker et Github
 
 [editor on GitHub](https://github.com/RomainHauet/docker-sae203/edit/gh-pages/index.md) 
 
