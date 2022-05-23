@@ -16,7 +16,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Un site de streaming vidéo
 
 Pour lancer le site :
-```markdown
+
+```
   docker ps
   puis
   docker build -t [nom de votre image]
@@ -25,7 +26,6 @@ Pour lancer le site :
   et enfin, sur un navigateur
   http://di-docker:[port choisie]
 ```
-
 
 ### Jekyll Themes
 
