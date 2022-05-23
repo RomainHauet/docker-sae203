@@ -18,8 +18,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Pour lancer le site :
 
 ```
-  docker ps
-  puis
+  (docker ps
+  puis)
   docker build -t [nom de votre image]
   puis
   docker run --name [nom du conteneur] -d -p [port choisie]:8096 [nom de votre image]
