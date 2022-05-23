@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Un début de site internet permettant le partage de fichier, mais abandon
 - Un site de streaming vidéo
 
-##### Pour lancer le site :
+Pour lancer le site :
 ```markdown
   docker ps
   _puis_
