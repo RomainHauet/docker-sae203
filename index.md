@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Apprendre à utiliser _Github_ 
 - Faire un conteneur permettant la facilitation
 
-### Ce que nous avons fait
+#### Ce que nous avons fait
 
 - Un début de site internet permettant le partage de fichier, mais abandon
 - Un site de streaming vidéo
